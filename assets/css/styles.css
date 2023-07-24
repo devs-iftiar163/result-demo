@@ -1,0 +1,16 @@
+.box {
+  color: red;
+  text-align: center;
+}
+
+.loader {
+  display: none;
+}
+
+#video {
+  display: none;
+}
+
+#video-one {
+  display: none;
+}
